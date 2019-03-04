@@ -6,7 +6,7 @@ comments: false
 
 This policy was adopted from the [FrontendLondon Slack](https://github.com/frontendlondon-slack/Code-Of-Conduct/blob/master/README.md) community and the [CodeNewbie](https://www.codenewbie.org/blogs/our-code-of-conduct) community, and it applies to all Hunter ACM events and communications. *This policy is a "living" document, and subject to refinement and expansion in the future.*
 
-### NYC Hacklab should be a safe place for everybody regardless of:
+### Hunter ACM should be a safe place for everybody regardless of:
 
 - gender, gender identity or gender expression 
 - sexual orientation
