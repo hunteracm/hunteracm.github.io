@@ -13,7 +13,7 @@ We will redirect hunter.acm.org here.
 - [ ] Replace the stock images in board member bios.
 - [ ] Make the authors.board description less clunky.
 
-**CONTRIBUTING:**
+**Contributing:**
 
 Contributing is currently limited to board members. This will change after the site is launched. If you're updating your bios of fixing typos / grammatical errors, feel free to make your changes and commit directly to master. For anything else, please submit an issue first.
 
