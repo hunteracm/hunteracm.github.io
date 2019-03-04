@@ -6,4 +6,4 @@ If you're updating your bios of fixing typos / grammatical errors, feel free to 
 For anything else, please submit an issue first. 
 Pull requests must be reviewed before merging.
 
-This website is adapted from an existing theme. Check out the original theme's repository to learn about how to download and serve the site.
+This website is adapted from an existing theme. Check out [the original theme's repository](https://github.com/wowthemesnet/affiliates-jekyll-theme) to learn about how to download and serve the site.
