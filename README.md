@@ -18,4 +18,12 @@ Your bio is at `_posts/<date>-<yourname>`.
 
 Contributing is currently limited to board members. This will change after the site is launched. If you're updating your bios or fixing typos / grammatical errors, feel free to make your changes and commit directly to master. For anything else, please submit an issue first. The active development branch is [dev](https://github.com/hunteracm/hunteracm.github.io/tree/dev) and all contributions, other than those previously specified, will only be accepted here. Pull requests must be reviewed before merging.
 
+If you don't feel comfortable commiting directly to the master branch or working in the dev branch, you can create a new branch and work from there. Here's how to get started:
+
+1. Clone this repo: `https://github.com/hunteracm/hunteracm.github.io.git`
+2. Navigate to the correct directory: `hunteracm.github.io`
+3. Download dependencies: `bundle`
+4. Create a new branch: `git checkout -b <branch-name>` or however you like to create branches
+5. Serve the site: `jekyll serve --watch`
+
 This website is adapted from an existing theme. Check out [the original theme's repository](https://github.com/wowthemesnet/affiliates-jekyll-theme) to learn about how to download and serve the site. 
