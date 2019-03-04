@@ -12,6 +12,7 @@ We will redirect hunter.acm.org here.
 - [ ] Test ideal photo size and quality for the featured images in board member bios.
 - [ ] Replace the stock images in board member bios.
 - [ ] Make the authors.board description less clunky.
+- [ ] Update the Facebook page.
 
 **Contributing:**
 
