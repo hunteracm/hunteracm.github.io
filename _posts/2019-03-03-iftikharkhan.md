@@ -7,4 +7,4 @@ image: assets/images/iftikharkhan.png
 memberprofile: true
 ---
 
-Tell us about yourself! (e.g. What are your interests? What is your position on the board? What do you bring to our community? What do you hope members get out of being part of Hunter ACM?)
+Iftikhar is passionate, but disciplined, about using computer science to uplift the world one line of code at a time.

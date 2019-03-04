@@ -7,4 +7,4 @@ image: assets/images/stewartweiss.png
 memberprofile: true
 ---
 
-Tell us about yourself! (e.g. What are your interests? What is your position on the board? What do you bring to our community? What do you hope members get out of being part of Hunter ACM?)
+Stewart Weiss is an associate Professor of computer science and serves as the faculty advisor of Hunter ACM.
