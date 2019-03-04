@@ -46,11 +46,11 @@ Contributing is currently limited to board members. This will change after the s
 If you don't feel comfortable commiting directly to the master branch or working in the dev branch, you can create a new branch and work from there. Here's how to get started:
 
 1. Clone this repo: `https://github.com/hunteracm/hunteracm.github.io.git`
-2. Navigate to the correct directory: `hunteracm.github.io`
+2. Navigate to the correct directory: `cd hunteracm.github.io`
 3. Download dependencies: `bundle`
 4. Create a new branch: `git checkout -b <branch-name>` or however you like to create branches
 5. Serve the site: `jekyll serve --watch`
 
-This website is adapted from an existing theme. Check out [the original theme's repository](https://github.com/wowthemesnet/affiliates-jekyll-theme) to learn about how to download and serve the site. 
+This website is adapted from an existing theme. Check out [the original theme's repository](https://github.com/wowthemesnet/affiliates-jekyll-theme) to learn about how to download, edit, and serve the site. 
 
 The jumbotron on the About page of this website features an image from Unsplash by [Stefan Stefancik](https://unsplash.com/@cikstefan).
