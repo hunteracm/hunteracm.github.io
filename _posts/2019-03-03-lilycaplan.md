@@ -3,7 +3,7 @@ layout: post
 title:  "Lily Caplan"
 author: board
 categories: [ "Meet the Board" ]
-image: assets/images/5.jpg
+image: assets/images/lilycaplan.png
 memberprofile: true
 ---
 

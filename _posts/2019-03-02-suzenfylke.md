@@ -3,7 +3,7 @@ layout: post
 title:  "Suzen Fylke"
 author: board
 categories: [ "Meet the Board" ]
-image: assets/images/1.jpg
+image: assets/images/suzenfylke.png
 memberprofile: true
 ---
 

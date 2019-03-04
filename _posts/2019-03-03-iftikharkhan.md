@@ -3,7 +3,7 @@ layout: post
 title:  "Iftikhar Khan"
 author: board
 categories: [ "Meet the Board" ]
-image: assets/images/4.jpg
+image: assets/images/iftikharkhan.png
 memberprofile: true
 ---
 

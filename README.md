@@ -10,7 +10,7 @@ Your bio is at `_posts/<date>-<yourname>`.
 - [ ] Complete board member bios.
 - [ ] Replace the stock images in board member bios. (Maybe just use your GitHub avatars?)
 - [ ] Test ideal photo size and quality for the featured images in board member bios.
-- [ ] Remove or update `<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>` in `_layouts/post.html`.
+- [x] Remove or update `<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>` in `_layouts/post.html`.
 - [ ] (Optional) Add individual board members as authors in in `_config.yml`.
 - [x] Publish the Facebook page.
 

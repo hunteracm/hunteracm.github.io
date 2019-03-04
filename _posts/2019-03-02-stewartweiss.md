@@ -3,7 +3,7 @@ layout: post
 title:  "Stewart Weiss"
 author: board
 categories: [ "Meet the Board" ]
-image: assets/images/6.jpg
+image: assets/images/stewartweiss.png
 memberprofile: true
 ---
 
