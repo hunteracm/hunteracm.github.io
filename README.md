@@ -6,11 +6,13 @@ We will redirect hunter.acm.org here.
 
 **Before we do that, we must:**
 
+**TL;DR -- update your bio in `_posts/<date>-<yourname>` and update the featured image with your own photo.** 
+
 - [ ] Attribute any images we use.
 - [ ] Consider replacing the jumbotron image. We're currently using stefan-stefancik-257625-unsplash, which came with the theme.
 - [ ] Complete board member bios.
 - [ ] Test ideal photo size and quality for the featured images in board member bios.
-- [ ] Replace the stock images in board member bios.
+- [ ] Replace the stock images in board member bios. (Maybe just use your GitHub avatars?)
 - [ ] Make the authors.board description less clunky.
 - [x] Publish the Facebook page.
 
