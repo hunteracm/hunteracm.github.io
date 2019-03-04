@@ -8,8 +8,8 @@ Your bio is at `_posts/<date>-<yourname>`.
 - [ ] Attribute any images we use.
 - [ ] Consider replacing the jumbotron image. We're currently using stefan-stefancik-257625-unsplash, which came with the theme.
 - [ ] Complete board member bios.
-- [ ] Replace the stock images in board member bios. (Maybe just use your GitHub avatars?)
-- [ ] Test ideal photo size and quality for the featured images in board member bios.
+- [x] Replace the stock images in board member bios. (Maybe just use your GitHub avatars?)
+- [x] Test ideal photo size and quality for the featured images in board member bios.
 - [x] Remove or update `<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>` in `_layouts/post.html`.
 - [ ] (Optional) Add individual board members as authors in in `_config.yml`.
 - [x] Publish the Facebook page.
