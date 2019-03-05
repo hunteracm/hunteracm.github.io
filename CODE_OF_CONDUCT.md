@@ -1,49 +1,76 @@
-# Our Code of Conduct
+# Contributor Covenant Code of Conduct
 
-This policy was adopted from the [FrontendLondon Slack](https://github.com/frontendlondon-slack/Code-Of-Conduct/blob/master/README.md) community and the [CodeNewbie](https://www.codenewbie.org/blogs/our-code-of-conduct) community, and it applies to all Hunter ACM events and communications. *This policy is a "living" document, and subject to refinement and expansion in the future.*
+## Our Pledge
 
-### Hunter ACM should be a safe place for everybody regardless of:
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, sex characteristics, gender identity and expression,
+level of experience, education, socio-economic status, nationality, personal
+appearance, race, religion, or sexual identity and orientation.
 
-- gender, gender identity or gender expression 
-- sexual orientation
-- disability
-- physical appearance (including but not limited to body size)
-- race
-- age
-- religion
+## Our Standards
 
-### As someone who is part of this community, you agree that:
+Examples of behavior that contributes to creating a positive environment
+include:
 
-* We are collectively and individually committed to safety and inclusivity.
-* We have zero tolerance for abuse, harassment, or discrimination.
-* We respect people’s boundaries and identities.
-* We refrain from using language that can be considered oppressive (systemically or otherwise), eg. sexist, racist, homophobic, transphobic, ableist, classist, etc. - this includes (but is not limited to) various slurs. We avoid using offensive topics as a form of humour.
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
+Examples of unacceptable behavior by participants include:
 
-### We actively work towards:
+* The use of sexualized language or imagery and unwelcome sexual attention or
+ advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic
+ address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+ professional setting
 
-* Being a safe community
-* Cultivating a network of support & encouragement for each other
-* Encouraging responsible and varied forms of expression
+## Our Responsibilities
 
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
 
-### We condemn:
+Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
 
-* Stalking, doxxing, or publishing private information
-* Threats of harm, harassment, bullying
-* Anything that compromises people’s safety
+## Scope
 
-**These things are NOT OK.**
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
 
-### If you say something that is found offensive, and you are called out on it, let’s:
+## Enforcement
 
-* Listen without interruption.
-* Believe what the person is saying & do not attempt to disqualify what they have to say.
-* Ask for tips / help with avoiding making the offence in the future.
-* Apologise and ask forgiveness.
-* Remember that this is an opportunity for growth.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at huntercollege.acm.chapter@gmail.com. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
 
-Failing to follow the community guidelines as described in this document carries consequences. For minor infractions, you may be temporarily suspended from the event you are participating in. Upon repeat offenses, or if the community believes you are not acting in good faith, you may be asked to leave permanently.
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
 
+## Attribution
 
-**If you experience abuse, harassment, discrimination, or feel unsafe, please reach out to us.**
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see
+https://www.contributor-covenant.org/faq
