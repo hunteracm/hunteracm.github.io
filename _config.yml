@@ -10,21 +10,37 @@ facebook: hunteracm
 slack: hunteracm
 github: hunteracm
 medium: hunteracm
+social:
+  links:
+    - https://www.facebook.com/hunteracm
+    - https://github.com/hunteracm
 
 # Authors
 authors:
+  # board should be the first author for seo reasons
   board:
     name: board
     display_name: "Hunter ACM Board"
     gravatar: fcb7a88ce4ed61c9470d8a3dec7b5211
     web: https://hunter.acm.org
     description: "The Hunter ACM board strives to make a safe, welcoming, and inclusive community for students who want to design, code, build, and learn about topics not taught in our classes."
+    type: Organization
+    image:
+      path: assets/images/logo_square.png
+      height: 500
+      width: 500
   suzenfylke:
     name: suzenfylke
     display_name: "Suzen Fylke"
     gravatar: 6f00367f46bd1774aa815c648fe089bb
     web: http://www.suzenfylke.com/
+    twitter: suzenfylke
     description: "Sue is a senior majoring in CS. She makes language learning fun! With computers."
+    type: Person
+    image:
+      path: assets/images/suzenfylke.png
+      height: 400
+      width: 400
 
 # Plugins
 plugins: 
