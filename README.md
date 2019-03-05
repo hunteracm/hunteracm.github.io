@@ -4,6 +4,8 @@ This an initial draft of the new Hunter ACM website. Hunter.acm.org now redirect
 
 **Please update your bios and optionally include a photo of yourself.** Your default bio and image are based on your GitHub bio and avatar. (@f0cus10, your default bio is from your LinkedIn). Your bio can be as long or as short as you want it to be, and can include images, gifs, emojis, etc. Tell us about yourself! (e.g. What are your interests? What is your position on the board? What do you bring to our community? What do you hope members get out of being part of Hunter ACM?) Have fun with it!
 
+**If you prefer not to be featured on the website, feel free to remove your information.**
+
 You're welcome to make your changes directly on the master branch when updating your bios.
 
 Your bio is at `_posts/<date>-<yourname>.md`. Edit the file below the following snippet:
