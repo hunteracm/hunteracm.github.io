@@ -7,4 +7,4 @@ image: assets/images/aarontaveras.png
 memberprofile: true
 ---
 
-Hello, world!
+Aaron is passionate about learning and is focused on growing as a developer, leader, and individual.
