@@ -11,6 +11,7 @@ paginate: 12
 facebook: hunteracm
 slack: hunteracm
 github: hunteracm
+twitter: weareHunterACM
 medium: hunteracm
 
 # Authors
@@ -21,6 +22,7 @@ authors:
     display_name: "Hunter ACM Board"
     gravatar: fcb7a88ce4ed61c9470d8a3dec7b5211
     web: https://hunter.acm.org
+    twitter: weareHunterACM
     description: "The Hunter ACM board strives to make a safe, welcoming, and inclusive community for students who want to design, code, build, and learn about topics not taught in our classes."
     type: Organization
   suzenfylke:
