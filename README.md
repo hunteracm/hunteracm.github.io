@@ -7,7 +7,7 @@ This website is adapted from an existing theme.
 
 We strive to make Hunter ACM a safe, welcoming, and inclusive community for all our members. [Read our Code of Conduct](https://www.hunteracm.org/codeofconduct).
 
-## The leadership team
+## Meet the board
 **President:** Lily Caplan <br />
 **Vice President:** Suzen Fylke <br />
 **Treasurer:** Aaron Taveras <br />
