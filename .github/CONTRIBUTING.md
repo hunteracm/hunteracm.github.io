@@ -5,7 +5,7 @@ Thanks for helping us improve the Hunter ACM website! 🎉
 Be sure to join the [Hunter ACM Slack](https://hunteracm.slack.com/) team. Say hello in `#introductions` and let us know what you'd like to work on in `#fixme`.
 
 ## Filing a Bug Report or Suggesting a New Feature
-Use the appropriate issue template.
+Fill out the provided issue template. The template is adapted from the [First Contributions](https://github.com/firstcontributions/first-contributions) project.
 
 ## Contributing Code
 If you're a member of the Hunter ACM community, ask to join this organization.
