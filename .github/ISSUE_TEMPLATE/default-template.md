@@ -1,5 +1,5 @@
 ---
-name: Default Template.
+name: Default
 about: Please use this template to report bugs and request features.
 title: ''
 labels: ''
