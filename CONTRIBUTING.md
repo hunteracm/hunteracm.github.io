@@ -1,10 +1,23 @@
-# Making Contributions
+# Contributing to the Hunter ACM Website
 
-Contributing is currently limited to board members. 
-This will change after the site is launched. 
-If you're updating your bios of fixing typos / grammatical errors, feel free to make your changes and commit directly to master. 
-For anything else, please submit an issue first. 
-The active development branch is [dev](https://github.com/hunteracm/hunteracm.github.io/tree/dev) and all contributions, other than those previously specified, will only be accepted here. 
-Pull requests must be reviewed before merging.
+Thanks for helping us improve the Hunter ACM website! 🎉
 
-This website is adapted from an existing theme. Check out [the original theme's repository](https://github.com/wowthemesnet/affiliates-jekyll-theme) to learn about how to download and serve the site.
+Be sure to join the [Hunter ACM Slack](https://hunteracm.slack.com/) team. Say hello in `#introductions` and let us know what you'd like to work on in `#fixme`.
+
+## Filing a Bug Report or Suggesting a New Feature
+Use the appropriate issue template.
+
+## Contributing Code
+If you're a member of the Hunter ACM community, ask to join this organization.
+
+### Installation
+
+(First and foremost, [install Jekyll](https://jekyllrb.com/docs/installation/), if you don't already have it.)
+
+1. Clone this repo: `git clone https://github.com/hunteracm/hunteracm.github.io.git`
+2. Navigate to the correct directory: `cd hunteracm.github.io`
+3. Download dependencies: `bundle`
+4. Serve the site: `jekyll serve --watch`
+
+### Making Changes
+Make a comment on an issue, saying you're interested on working on it and briefly describe your solution. Make your changes in a new branch, and give your branch a descriptive name. Submit a pull request when you're satisfied with your changes. Don't merge your own pull request. Pull requests should be reviewed before they're merged.
