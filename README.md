@@ -24,6 +24,20 @@ There are many ways to get in touch with us and get news about upcoming events: 
 **Facebook:** [facebook.com/hunteracm](https://www.facebook.com/hunteracm/) <br />
 **Twitter:** [twitter.com/weareHunterACM](https://twitter.com/weareHunterACM) <br />
 
+## Get involved
+In addition to attending our weekly meetings, there are many ways for members to contribute to our community while developing their leadership, planning, writing, and public speaking skills. Get involved by:
+- Leading a workshop
+- Demoing something you've designed, coded, or built
+- Presenting your research
+- Talking about your internship experience(s)
+- Writing a blog post
+- Suggesting an event for Hunter ACM to hold
+- Recommending an event for members to attend
+- Joining the board
+- Helping improve the Hunter ACM website
+
+[Let us know](https://www.hunteracm.org/contact) how you'd like to get involved.
+
 ## Help us improve the Hunter ACM website
 Check out [our contributing guide](https://github.com/hunteracm/hunteracm.github.io/edit/master/.github/CONTRIBUTING.md) to learn how you can help us improve the Hunter ACM website. Be sure to join the [Hunter ACM Slack](https://hunteracm.slack.com/) team; say hello in `#introductions` and let us know what you'd like to work on in `#fixme`. If you're a member of the Hunter ACM community, ask to join this organization.
 
