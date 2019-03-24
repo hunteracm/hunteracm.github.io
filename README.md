@@ -1,60 +1,33 @@
-# Hunter ACM Website
+# Welcome to Hunter ACM!
 
-This an initial draft of the new Hunter ACM website. Hunter.acm.org now redirects here.
+Hunter ACM is a community of Hunter College students interested in CS and tech. We design, code, build, and learn about topics not taught in our classes.
 
-**Please update your bios and optionally include a photo of yourself.** Your default bio and image are based on your GitHub bio and avatar. (@f0cus10, your default bio is from your LinkedIn). Your bio can be as long or as short as you want it to be, and can include images, gifs, emojis, etc. Tell us about yourself! (e.g. What are your interests? What is your position on the board? What do you bring to our community? What do you hope members get out of being part of Hunter ACM?) Have fun with it!
+We are a student chapter of the Association for Computing Machinery (ACM), which is recognized as the "world's largest educational and scientific computing society". The Purposes of the ACM are "advancing the art, science, engineering, and application of information technology; fostering the open interchange of information to serve both professionals and the public; and promoting the highest professional and ethical standards". We subscribe to these purposes.
+This website is adapted from an existing theme.
 
-**If you prefer not to be featured on the website, feel free to remove your information.**
+We strive to make Hunter ACM a safe, welcoming, and inclusive community for all our members. [Read our Code of Conduct](https://www.hunteracm.org/codeofconduct).
 
-You're welcome to make your changes directly on the master branch when updating your bios.
+## The leadership team
+**President:** Lily Caplan <br />
+**Vice President:** Suzen Fylke <br />
+**Treasurer:** Aaron Taveras <br />
+**Secretary:** Iftikhar Khan <br />
+**Faculty Sponsor:** Stewart Weiss
 
-Your bio is at `_posts/<date>-<yourname>.md`. Edit the file below the following snippet:
-```
----
-layout: post
-title:  "<Your Name>"
-author: board
-categories: [ "Meet the Board" ]
-image: assets/images/<yourname>.png
-memberprofile: true
----
-```
+## Connect with us
+There are many ways to get in touch with us and get news about upcoming events: <br />
+Website: [hunteracm.org](https://www.hunteracm.org/) <br />
+Newsletter: [eepurl.com/gjrbz9](https://acm.us14.list-manage.com/subscribe?u=40574f669e2894fb2eb79e2b6&id=d40cd1198a) <br />
+Slack: [hunteracm.slack.com](https://hunteracm.slack.com/) <br />
+Eventbrite: [hunteracm.eventbrite.com](https://www.eventbrite.com/o/hunter-acm-19855593997) <br />
+GitHub: [github.com/hunteracm](https://github.com/hunteracm) <br />
+Facebook: [facebook.com/hunteracm](https://www.facebook.com/hunteracm/) <br />
+Twitter: [twitter.com/weareHunterACM](https://twitter.com/weareHunterACM) <br />
 
-If you would like to be listed as an author, add your information to `_config.yml`.
-Here is an example:
-```
-  suzenfylke:
-    name: suzenfylke
-    display_name: "Suzen Fylke"
-    gravatar: 6f00367f46bd1774aa815c648fe089bb
-    web: http://www.suzenfylke.com/
-    description: "Sue is a senior majoring in CS. She makes language learning fun! With computers."
-```
+## Help us improve the Hunter ACM website
+Check out [our contributing guide](https://github.com/hunteracm/hunteracm.github.io/edit/master/.github/CONTRIBUTING.md) to learn how you can help us improve the Hunter ACM website. Be sure to join the [Hunter ACM Slack](https://hunteracm.slack.com/) team; say hello in `#introductions` and let us know what you'd like to work on in `#fixme`. If you're a member of the Hunter ACM community, ask to join this organization.
 
-If you add yourself as an author in the configuration file, you may list yourself as an author on your bio page. Replace `board` with your author key, as in the following example:
-```
----
-layout: post
-title:  "Suzen Fylke"
-author: suzenfylke
-categories: [ "Meet the Board" ]
-image: assets/images/suzenfylke.png
-memberprofile: true
----
-```
-
-## Contributing:
-
-Contributing is currently limited to board members. This will change after the site is launched. If you're updating your bios or fixing typos / grammatical errors, feel free to make your changes and commit directly to master. For anything else, please submit an issue first. The active development branch is [dev](https://github.com/hunteracm/hunteracm.github.io/tree/dev) and all contributions, other than those previously specified, will only be accepted here. Pull requests must be reviewed before merging.
-
-If you don't feel comfortable commiting directly to the master branch or working in the dev branch, you can create a new branch and work from there. Here's how to get started:
-
-1. Clone this repo: `https://github.com/hunteracm/hunteracm.github.io.git`
-2. Navigate to the correct directory: `cd hunteracm.github.io`
-3. Download dependencies: `bundle`
-4. Create a new branch: `git checkout -b <branch-name>` or however you like to create branches
-5. Serve the site: `jekyll serve --watch`
-
-This website is adapted from an existing theme. Check out [the original theme's repository](https://github.com/wowthemesnet/affiliates-jekyll-theme) to learn about how to download, edit, and serve the site. 
+## Attributions
+This website uses [the Affiliates theme](https://github.com/wowthemesnet/affiliates-jekyll-theme) by WowThemes.net.
 
 The jumbotron on the About page of this website features an image from Unsplash by [Stefan Stefancik](https://unsplash.com/@cikstefan).
