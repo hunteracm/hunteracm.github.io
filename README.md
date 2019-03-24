@@ -16,13 +16,13 @@ We strive to make Hunter ACM a safe, welcoming, and inclusive community for all 
 
 ## Connect with us
 There are many ways to get in touch with us and get news about upcoming events: <br />
-Website: [hunteracm.org](https://www.hunteracm.org/) <br />
-Newsletter: [eepurl.com/gjrbz9](https://acm.us14.list-manage.com/subscribe?u=40574f669e2894fb2eb79e2b6&id=d40cd1198a) <br />
-Slack: [hunteracm.slack.com](https://hunteracm.slack.com/) <br />
-Eventbrite: [hunteracm.eventbrite.com](https://www.eventbrite.com/o/hunter-acm-19855593997) <br />
-GitHub: [github.com/hunteracm](https://github.com/hunteracm) <br />
-Facebook: [facebook.com/hunteracm](https://www.facebook.com/hunteracm/) <br />
-Twitter: [twitter.com/weareHunterACM](https://twitter.com/weareHunterACM) <br />
+**Website:** [hunteracm.org](https://www.hunteracm.org/) <br />
+**Newsletter:** [eepurl.com/gjrbz9](https://acm.us14.list-manage.com/subscribe?u=40574f669e2894fb2eb79e2b6&id=d40cd1198a) <br />
+**Slack:** [hunteracm.slack.com](https://hunteracm.slack.com/) <br />
+**Eventbrite:** [hunteracm.eventbrite.com](https://www.eventbrite.com/o/hunter-acm-19855593997) <br />
+**GitHub:** [github.com/hunteracm](https://github.com/hunteracm) <br />
+**Facebook:** [facebook.com/hunteracm](https://www.facebook.com/hunteracm/) <br />
+**Twitter:** [twitter.com/weareHunterACM](https://twitter.com/weareHunterACM) <br />
 
 ## Help us improve the Hunter ACM website
 Check out [our contributing guide](https://github.com/hunteracm/hunteracm.github.io/edit/master/.github/CONTRIBUTING.md) to learn how you can help us improve the Hunter ACM website. Be sure to join the [Hunter ACM Slack](https://hunteracm.slack.com/) team; say hello in `#introductions` and let us know what you'd like to work on in `#fixme`. If you're a member of the Hunter ACM community, ask to join this organization.
