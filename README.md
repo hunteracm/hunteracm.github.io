@@ -39,7 +39,7 @@ In addition to attending our weekly meetings, there are many ways for members to
 [Let us know](https://www.hunteracm.org/contact) how you'd like to get involved.
 
 ## Help us improve the Hunter ACM website
-Check out [our contributing guide](https://github.com/hunteracm/hunteracm.github.io/edit/master/.github/CONTRIBUTING.md) to learn how you can help us improve the Hunter ACM website. Be sure to join the [Hunter ACM Slack](https://hunteracm.slack.com/) team; say hello in `#introductions` and let us know what you'd like to work on in `#fixme`. If you're a member of the Hunter ACM community, ask to join this organization.
+Check out [our contributing guide](https://github.com/hunteracm/hunteracm.github.io/blob/master/.github/CONTRIBUTING.md) to learn how you can help us improve the Hunter ACM website. Be sure to join the [Hunter ACM Slack](https://hunteracm.slack.com/) team; say hello in `#introductions` and let us know what you'd like to work on in `#fixme`. If you're a member of the Hunter ACM community, ask to join this organization.
 
 ## Attributions
 This website uses [the Affiliates theme](https://github.com/wowthemesnet/affiliates-jekyll-theme) by WowThemes.net, which is distributed under [an MIT License](https://github.com/wowthemesnet/affiliates-jekyll-theme/blob/master/LICENSE.txt).
