@@ -8,6 +8,6 @@ memberprofile: true
 ---
 
 
-Nancy is a treasurer of the ACM club.
+Nancy Yoon is a treasurer of the Hunter ACM.
 
 
