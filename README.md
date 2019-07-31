@@ -8,10 +8,10 @@ This website is adapted from an existing theme.
 We strive to make Hunter ACM a safe, welcoming, and inclusive community for all our members. [Read our Code of Conduct](https://www.hunteracm.org/codeofconduct).
 
 ## Meet the board
-**President:** Lily Caplan <br />
-**Vice President:** Suzen Fylke <br />
-**Treasurer:** Aaron Taveras <br />
-**Secretary:** Iftikhar Khan <br />
+**President:** Andrey Shtukenberg <br />
+**Vice President:** Khinshan Khan <br />
+**Treasurer:** Nancy Yoon <br />
+**Secretary:** Emily Fang <br />
 **Faculty Sponsor:** Stewart Weiss
 
 ## Connect with us
