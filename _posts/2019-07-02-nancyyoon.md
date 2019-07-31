@@ -8,6 +8,6 @@ memberprofile: true
 ---
 
 
-Hello! My name is Nancy, and I am a treasurer of the ACM club.
+Nancy is a treasurer of the ACM club.
 
 
