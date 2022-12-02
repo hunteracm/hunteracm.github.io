@@ -3,7 +3,7 @@ layout: post
 title:  "William Gregory Sakas "
 author: board
 categories: [ "Meet the Board" ]
-image: assets/images/Sakas.png
+image: assets/images/Sakas.jpg
 memberprofile: true
 ---
 
